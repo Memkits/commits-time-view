@@ -1,0 +1,6 @@
+
+{:host "tiye.me"
+ :uploads [{:from "dist/*"
+            :to "cdn/commits-time-view/"}
+           {:from "dist/{index.html,manifest.json}"
+            :to "repo/Memkits/commits-time-view/"}]}
